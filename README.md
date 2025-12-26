@@ -1,5 +1,7 @@
 Note- Open Project0(that's the final file)
 
+app is live- https://python-ai-ml-projects-f7zmzycs8kzfnewshyuhov.streamlit.app/
+
 🛒 Online Shopping Cart Abandonment Analysis
 📌 Project Overview
 
